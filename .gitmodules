@@ -1,0 +1,3 @@
+[submodule "submodules/subchild"]
+	path = submodules/subchild
+	url = git@github.com:lstrive-yn/subchild.git
